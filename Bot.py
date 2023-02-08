@@ -16,7 +16,7 @@ to_whatsapp_number = 'whatsapp:+12345678901'
 
 # The message you want to send as an autoreply
 
-autoreply_message = 'Thank you for your message. I am currently unavailable. I will get back to you soon.'
+autoreply_message = 'I am Busy right now , i will text you soon Buddy'
 
 # Send an autoreply message
 
